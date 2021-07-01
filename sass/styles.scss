@@ -1,0 +1,14 @@
+// this is like a directory for styling for the entire website
+
+@import "variables";
+
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-bottom: 0;
+}
+
+// PAGES
+h1 {
+    color: $primaryBrandColor;
+}
